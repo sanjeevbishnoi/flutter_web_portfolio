@@ -1,4 +1,4 @@
-# flutter_web_portfolio
+# Flutter Web Portfolio
 Portfolio app build with Flutter Web
 
 Just an expirement to know how it works. 
